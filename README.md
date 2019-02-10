@@ -1,3 +1,4 @@
+
 # Présentation globale
 
 Ceci est un convertisseur simple de fichier Markdown vers fichier HTML.
@@ -17,6 +18,18 @@ Ceci est un convertisseur simple de fichier Markdown vers fichier HTML.
 | -o ou --output-directory | Permet de spécifier un chemin vers lequel le résultat de la conversion sera stocké. |
 | -q ou --quitter | Permet de quitter la console de conversion. |
 
+### Exemple d'utilisation
+
+    M2H>> mth -i fichier.md
+
+> Le fichier sera convertit, et le résultat sera stocké dans le même dossier.
+
+    enter code here
+
 ## Information complémentaires 
 
- - [x] Aucun packages autre que des packages propres à python sont utilisés, il n'y à pas de prérequis à installer.
+ - [x] Aucun packages autre que des packages propres à python sont utilisé, il n'y à pas de prérequis à installer.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNDI5MTgyMjhdfQ==
+-->
