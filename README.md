@@ -26,12 +26,12 @@ Ceci est un convertisseur simple de fichier Markdown vers fichier HTML.
 
     M2H>> mth -i fichier.md -o oui
 
-> Le fichier sera convertit, mais le résultat de la convertion sera stocké dans le fichier enfant "oui"
+> Le fichier sera convertit, mais le résultat de la conversion sera stocké dans le fichier enfant "oui"
 
 ## Information complémentaires 
 
  - [x] Aucun packages autre que des packages propres à python sont utilisé, il n'y à pas de prérequis à installer.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYyNjE2OTddfQ==
+eyJoaXN0b3J5IjpbNzk2NDI3MDA2XX0=
 -->
