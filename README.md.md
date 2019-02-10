@@ -17,10 +17,14 @@ Ceci est un convertisseur simple de fichier Markdown vers fichier HTML.
 | -o ou --output-directory | Permet de spécifier un chemin vers lequel le résultat de la conversion sera stocké. |
 | -q ou --quitter | Permet de quitter la console de conversion. |
 
+### Exemple d'utilisation
+
+
+
 ## Information complémentaires 
 
  - [x] Aucun packages autre que des packages propres à python sont utilisé, il n'y à pas de prérequis à installer.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc2Njc0ODZdfQ==
+eyJoaXN0b3J5IjpbLTI2MDc2MjA5N119
 -->
